@@ -5,7 +5,7 @@ source 'https://rails-assets.org'
 gemspec
 
 gem 'activerecord'
-gem 'rails-assets-jquery', '1.11.1'
+gem 'rails-assets-jquery', '3.4.1'
 gem 'rails-assets-jquery-ui', '1.10.4'
 gem 'rdiscount'
 gem 'rspec-rails'
