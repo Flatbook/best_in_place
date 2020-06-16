@@ -6,7 +6,7 @@ gemspec
 
 gem 'activerecord'
 gem 'rails-assets-jquery', '1.11.1'
-gem 'rails-assets-jquery-ui', '1.10.4'
+gem 'rails-assets-jquery-ui', '1.12.1'
 gem 'rdiscount'
 gem 'rspec-rails'
 gem 'nokogiri'
